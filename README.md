@@ -1,2 +1,2 @@
 # SortsReview
-Just a list of sorts in C++ for me to review incase I forget.
+Just a list of sorts in C++ for me to review in case I forget. Stored online, so I can't lose them. 
